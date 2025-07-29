@@ -27,7 +27,7 @@
 🔹 **🎧 官方音频资源**
  由于 GitHub 仓库空间限制，**音频文件统一存储在 Google Drive**，现已开放访问：
 
-- The Economist 音频合集（Google Drive 总入口）
+- [The Economist 音频合集](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing)（Google Drive 总入口）
 
 - 资源持续更新，涵盖所有最新期数，适合英语听力训练、泛听与资料备份！
 
