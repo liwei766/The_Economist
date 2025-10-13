@@ -1,17 +1,9 @@
 # Ignore all mp3 files
 *.mp3
+TE-2024/
 TE-2023/
 TE-2022/
 TE-2021/
 TE-2020/
-TE-2024-01/
-TE-2024-02/
-TE-2024-03/
-TE-2024-04/
-TE-2024-05/
-TE-2024-06/
-TE-2024-07/
-TE-2024-08/
-TE-2024-09/
 
 push_economist.bat
