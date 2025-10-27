@@ -9,7 +9,7 @@
 
 **《经济学人》杂志的综合存档，提供多种格式和音频资源**
 
-[📖 博客解析](https://www.pulppoetry.org) • [🎧 音频存档](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [🌍 English Version](./README.md)
+[📖 博客解析](https://blog.evanzhou.org/) • [🎧 音频存档](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [🌍 English Version](./README.md)
 
 </div>
 
@@ -124,7 +124,7 @@ The Economist/
 - **🌐 特朗普与习近平的全球"分区计划"** —— 世界会被一分为二吗？
 - **⚠️ 新冠疫情如何推高美国谋杀率** —— 后疫情时代的社会动态
 
-👉 **[阅读最新博客解析](https://www.pulppoetry.org/topics/te-2025-02-01)**
+👉 **[阅读最新博客解析](https://blog.evanzhou.org/topics/te-2025-02-01)**
 
 ---
 
@@ -161,7 +161,7 @@ The Economist/
 ## 📬 联系方式
 
 - 📧 **问题反馈**：[GitHub Issues](../../issues)
-- 🌐 **博客**：[Pulp Poetry](https://www.pulppoetry.org)
+- 🌐 **博客**：[Evan 的博客](https://blog.evanzhou.org/)
 - 💬 **讨论**：欢迎在 Issues 区开始讨论
 
 ---

@@ -9,7 +9,7 @@
 
 **A comprehensive archive of The Economist magazine with multiple formats and audio resources**
 
-[📖 Blog Analysis](https://www.pulppoetry.org) • [🎧 Audio Archive](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [🌏 中文版](./README_CN.md)
+[📖 Blog Analysis](https://blog.evanzhou.org/) • [🎧 Audio Archive](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [🌏 中文版](./README_CN.md)
 
 </div>
 
@@ -124,7 +124,7 @@ Each week features a deep-dive analysis of key stories:
 - **🌐 Trump & Xi's Global "Zoning Plan"** — The world split in two?
 - **⚠️ COVID-19's Impact on US Murder Rates** — Post-pandemic social dynamics
 
-👉 **[Read Latest Blog Analysis](https://www.pulppoetry.org/topics/te-2025-02-01)**
+👉 **[Read Latest Blog Analysis](https://blog.evanzhou.org/topics/te-2025-02-01)**
 
 ---
 
@@ -161,7 +161,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 ## 📬 Contact
 
 - 📧 **Issues & Feedback**: [GitHub Issues](../../issues)
-- 🌐 **Blog**: [Pulp Poetry](https://www.pulppoetry.org)
+- 🌐 **Blog**: [Evan's Blog](https://blog.evanzhou.org/)
 - 💬 **Discussions**: Feel free to start a discussion in the Issues tab
 
 ---
