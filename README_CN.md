@@ -9,9 +9,15 @@
 
 **《经济学人》杂志的综合存档，提供多种格式和音频资源**
 
-[📖 博客解析](https://blog.evanzhou.org/) • [🎧 音频存档](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [🌍 English Version](./README.md)
+[📖 博客解析](https://blog.evanzhou.org/) • [🎧 音频存档](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [📢 更新公告](../../issues/1) • [🌍 English Version](./README.md)
 
 </div>
+
+<!-- 📢 动态通知横幅 - 有临时通知时取消注释 -->
+<!--
+> [!NOTE]
+> **本周更新通知**: 本周正常更新 | 查看详细公告 → [更新公告与动态](../../issues/1)
+-->
 
 ---
 

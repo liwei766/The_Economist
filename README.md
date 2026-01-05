@@ -9,9 +9,15 @@
 
 **A comprehensive archive of The Economist magazine with multiple formats and audio resources**
 
-[📖 Blog Analysis](https://blog.evanzhou.org/) • [🎧 Audio Archive](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [🌏 中文版](./README_CN.md)
+[📖 Blog Analysis](https://blog.evanzhou.org/) • [🎧 Audio Archive](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [📢 Updates](../../issues/1) • [🌏 中文版](./README_CN.md)
 
 </div>
+
+<!-- 📢 Dynamic Notice Banner - Uncomment when needed -->
+<!--
+> [!NOTE]
+> **Weekly Update Notice**: Regular update this week | See details → [Updates & Announcements](../../issues/1)
+-->
 
 ---
 
