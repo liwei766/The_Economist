@@ -13,11 +13,9 @@
 
 </div>
 
-<!-- 📢 Dynamic Notice Banner - Uncomment when needed -->
-<!--
 > [!NOTE]
-> **Weekly Update Notice**: Regular update this week | See details → [Updates & Announcements](../../issues/1)
--->
+> **Latest Update**: 2026-01-05 | Regular weekly update | Next update: Jan 12, 2026
+> 👉 [View Update History & Announcements](../../issues/1)
 
 ---
 
