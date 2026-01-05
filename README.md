@@ -13,8 +13,13 @@
 
 </div>
 
+---
+
 > [!NOTE]
-> **Latest Update**: 2026-01-05 | Regular weekly update | Next update: Jan 12, 2026
+> 🎉 **Happy New Year 2026!** | **Latest Update**: 2026-01-05 (TE-2026-01-03)
+>
+> 📦 **Archive Notice**: 2025 H1 editions (Jan-Jun) will be archived on next update (Jan 12)
+>
 > 👉 [View Update History & Announcements](../../issues/1)
 
 ---
