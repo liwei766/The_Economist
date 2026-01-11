@@ -9,7 +9,7 @@
 
 **《经济学人》杂志的综合存档，提供多种格式和音频资源**
 
-[📖 博客解析](https://blog.evanzhou.org/) • [🎧 音频存档](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [📢 更新公告](../../issues/1) • [🌍 English Version](./README.md)
+[📖 博客解析](https://blog.evanzhou.org/) • [🎧 音频存档](https://drive.google.com/drive/folders/18iGahe-vasxwsKm0yfa-oP6kCtPkGssb?usp=sharing) • [🌍 English Version](./README.md)
 
 </div>
 
@@ -19,8 +19,6 @@
 > 🎉 **新年快乐 2026！** | **最新更新**: 2026-01-11 (TE-2026-01-10)
 >
 > ✅ **归档完成**: 2025年上半年（1-6月）期刊已归档至 TE-2025 文件夹
->
-> 👉 [查看更新历史与公告](../../issues/1)
 
 ---
 
