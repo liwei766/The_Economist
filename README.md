@@ -16,7 +16,7 @@
 ---
 
 > [!NOTE]
-> 🎉 **Happy New Year 2026!** | **Latest Update**: 2026-01-26 (TE-2026-01-24)
+> 🎉 **Happy New Year 2026!** | **Latest Update**: 2026-02-02 (TE-2026-01-31)
 >
 > ✅ **Archive Complete**: 2025 H1 editions (Jan-Jun) archived to TE-2025 folder
 
