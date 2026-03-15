@@ -16,7 +16,7 @@
 ---
 
 > [!NOTE]
-> 🎉 **Happy Chinese New Year 2026!** | **Latest Update**: 2026-03-08 (TE-2026-03-07)
+> 🎉 **Happy Chinese New Year 2026!** | **Latest Update**: 2026-03-15 (TE-2026-03-14)
 >
 > ✅ **Archive Complete**: 2025 H1 editions (Jan-Jun) archived to TE-2025 folder
 
