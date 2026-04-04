@@ -16,7 +16,7 @@
 ---
 
 > [!NOTE]
-> **Latest Update**: 2026-03-29 (TE-2026-03-28)
+> **Latest Update**: 2026-04-04 (TE-2026-04-04)
 >
 > ✅ **Archive Complete**: 2025 H1 editions (Jan-Jun) archived to TE-2025 folder
 
