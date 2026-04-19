@@ -12,4 +12,5 @@ push_economist.bat
 .claude/
 AGENTS.md
 SKILL.md
-
+.codex/
+_dev
