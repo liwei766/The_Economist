@@ -16,7 +16,7 @@
 ---
 
 > [!NOTE]
-> **Latest Update**: 2026-04-27 (TE-2026-04-25)
+> **Latest Update**: 2026-05-05 (TE-2026-05-02)
 >
 > ⏭️ **Coming Next**: The 2025 H2 editions (Jul-Dec) are scheduled to be archived into the `TE-2025` folder on 2026-05-04
 
