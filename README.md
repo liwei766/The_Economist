@@ -16,9 +16,9 @@
 ---
 
 > [!NOTE]
-> **Latest Update**: 2026-05-05 (TE-2026-05-02)
+> **Latest Update**: 2026-05-13 (TE-2026-05-09)
 >
-> 📦 **Archive Note**: The 2025 editions have been archived into the `TE-2025` folder by month.
+> 📌 **Update Note**: I have been busy recently, so this update came a little late. The EPUB source has also changed, and I have not had time to check it carefully yet, so it may be replaced later.
 
 ---
 
