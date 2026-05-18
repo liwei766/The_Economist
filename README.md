@@ -16,9 +16,9 @@
 ---
 
 > [!NOTE]
-> **Latest Update**: 2026-05-13 (TE-2026-05-09)
+> **Latest Update**: 2026-05-18 (TE-2026-05-16)
 >
-> 📌 **Update Note**: I have been busy recently, so this update came a little late. The EPUB source has also changed, and I have not had time to check it carefully yet, so it may be replaced later.
+> 📌 **Update Note**: Added the 2026-05-16 issue. Replaced the EPUB, MOBI, and AZW3 files for the 2026-05-09 issue with new versions. The Google Drive audio archive has been updated to the latest issue.
 
 ---
 
